@@ -1,0 +1,5 @@
+group 'net.evendanan.externalbuilderplugin.demo'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'externalbuilder'
+
