@@ -1,3 +1,7 @@
+#SOLVED
+The actual problem was that one of the Android Studio plugins we have on our machines was failing to start up correctly and cause this issue. Once we disabled that (unrelated) plugin, this scenario worked just fine.
+
+
 # android_studio_failed_UI_exec - Android Studio 3.1-beta1
 A bug in Android Studio when defining project builder in a plugin
 
