@@ -1,4 +1,4 @@
-#SOLVED
+# SOLVED
 The actual problem was that one of the Android Studio plugins we have on our machines was failing to start up correctly and cause this issue. Once we disabled that (unrelated) plugin, this scenario worked just fine.
 
 
